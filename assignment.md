@@ -3,6 +3,6 @@ Battletoads is a video game franchise by Rare that began with the original beat 
 <img width="250" height="217" alt="image" src="https://github.com/user-attachments/assets/406096a5-8a83-425b-8766-9930cf74c7ac" />
 
 what its like
-- hard
+- *hard*
 - childhood game
-- harder
+- **harder**
