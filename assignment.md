@@ -6,3 +6,4 @@ what its like
 - *hard*
 - <ins>childhood game<ins/>
 - **harder**
+(The battle toads wiki)[https://en.wikipedia.org/wiki/Battletoads]
